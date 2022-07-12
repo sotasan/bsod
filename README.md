@@ -10,6 +10,14 @@
 
 [Releases](https://github.com/shotav/BSOD/releases)
 
+## Build
+
+```bash
+$ git clone https://github.com/shotav/BSOD.git
+$ cd BSOD
+$ dotnet publish
+```
+
 ## License
 
 [Apache License 2.0](https://github.com/shotav/BSOD/blob/master/LICENSE)
