@@ -22,7 +22,7 @@ jobs:
     - name: GitHub Release
       uses: softprops/action-gh-release@v1
       with:
-        files: dist/*.exe
+        files: bin/Release/net6.0-windows/win-x64/publish/*.exe
         tag_name: v1.0.0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
