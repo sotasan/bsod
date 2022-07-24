@@ -15,7 +15,7 @@
 ```bash
 $ git clone https://github.com/sho7a/BSOD.git
 $ cd BSOD
-$ dotnet publish
+$ make
 ```
 
 ## License
