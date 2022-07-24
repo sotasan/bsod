@@ -15,7 +15,7 @@
 ```bash
 $ git clone https://github.com/sho7a/BSOD.git
 $ cd BSOD
-$ mingw32-make
+$ make
 ```
 
 ## License
