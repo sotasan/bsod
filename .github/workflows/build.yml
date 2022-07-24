@@ -2,6 +2,10 @@ name: Build
 
 on: workflow_dispatch
 
+defaults:
+  run:
+    shell: bash
+
 jobs:
   build:
     name: Build
@@ -12,7 +16,6 @@ jobs:
       uses: actions/checkout@v3
     
     - name: Build
-      shell: cmd
       run: make
 
     - name: GitHub Release
