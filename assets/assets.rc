@@ -8,7 +8,6 @@ BEGIN
             VALUE "ProductName",      "BSOD"
             VALUE "FileDescription",  "Blue Screen Of Death"
             VALUE "LegalCopyright",   "Copyright 2022 shota"
-            VALUE "OriginalFilename", "BSOD.exe"
         END
     END
 
