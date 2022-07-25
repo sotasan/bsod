@@ -8,13 +8,13 @@ jobs:
     runs-on: windows-latest
     steps:
 
-    - name: Checkout GitHub
+    - name: Checkout
       uses: actions/checkout@v3
     
     - name: Build
       run: make
 
-    - name: GitHub Release
+    - name: Release
       uses: softprops/action-gh-release@v1
       with:
         files: bin\*.exe
