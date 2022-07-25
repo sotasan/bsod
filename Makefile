@@ -9,7 +9,7 @@ bin\BSOD.exe:
 	if not exist obj ( mkdir obj )
 	windres assets\assets.rc obj\assets.o
 	gcc -c src\main.c -o obj\main.o
-	gcc -mwindows obj\main.o obj\assets.o "C:\Windows\System32\ntdll.dll" -o bin\BSOD.exe 
+	gcc -mwindows obj\main.o obj\assets.o -l ntdll -o bin\BSOD.exe
 
 clean:
 	if exist bin ( rmdir /s /q bin )
