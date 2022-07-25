@@ -1,1 +1,19 @@
 1 ICON "icon.ico"
+1 VERSIONINFO
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904E4"
+        BEGIN
+            VALUE "ProductName",      "BSOD"
+            VALUE "FileDescription",  "Blue Screen Of Death"
+            VALUE "LegalCopyright",   "Copyright 2022 shota"
+            VALUE "OriginalFilename", "BSOD.exe"
+        END
+    END
+
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0, 0
+    END
+END
