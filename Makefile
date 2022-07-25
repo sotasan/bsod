@@ -7,8 +7,8 @@ all: clean bin\BSOD.exe
 bin\BSOD.exe:
 	if not exist bin ( mkdir bin )
 	if not exist obj ( mkdir obj )
-	windres assets\assets.rc obj\assets.o
 	gcc -c src\main.c -o obj\main.o
+	windres assets\assets.rc obj\assets.o
 	gcc -mwindows obj\main.o obj\assets.o -l ntdll -o bin\BSOD.exe
 
 clean:
