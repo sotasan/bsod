@@ -29,7 +29,7 @@
      showgrid="false"
      inkscape:zoom="0.70917839"
      inkscape:cx="774.13526"
-     inkscape:cy="365.21135"
+     inkscape:cy="366.62144"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -43,7 +43,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#0079d8;fill-opacity:1;stroke-width:48.9878"
+       style="fill:#0078d7;fill-opacity:1;stroke-width:48.9878"
        id="rect184"
        width="384"
        height="384"
@@ -52,14 +52,14 @@
        ry="61.317837" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:366.667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:48"
-       x="152.69582"
-       y="355.1864"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:48"
+       x="162.08734"
+       y="346.16919"
        id="text240"><tspan
          sodipodi:role="line"
          id="tspan238"
-         x="152.69582"
-         y="355.1864"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:366.667px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">:(</tspan></text>
+         x="162.08734"
+         y="346.16919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">:(</tspan></text>
   </g>
 </svg>
