@@ -8,8 +8,8 @@ bin\BSOD.exe:
 	if not exist bin ( mkdir bin )
 	if not exist obj ( mkdir obj )
 	gcc -c src\main.c -o obj\main.o
-	windres assets\assets.rc obj\assets.o
-	gcc -mwindows obj\main.o obj\assets.o -l ntdll -o bin\BSOD.exe
+	windres assets\resources.rc obj\resources.o
+	gcc -mwindows obj\main.o obj\resources.o -l ntdll -o bin\BSOD.exe
 
 clean:
 	if exist bin ( rmdir /s /q bin )
