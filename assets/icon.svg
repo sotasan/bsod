@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      showgrid="false"
-     inkscape:zoom="0.70917839"
-     inkscape:cx="276.37616"
-     inkscape:cy="420.20457"
+     inkscape:zoom="0.50146485"
+     inkscape:cx="-181.46835"
+     inkscape:cy="478.59785"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -49,17 +49,17 @@
        height="384"
        x="64"
        y="64"
-       ry="49.352886" />
+       ry="61.317837" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:48"
-       x="154.33347"
-       y="348.66678"
+       x="162.08736"
+       y="346.16919"
        id="text240"><tspan
          sodipodi:role="line"
          id="tspan238"
-         x="154.33347"
-         y="348.66678"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif">:(</tspan></text>
+         x="162.08736"
+         y="346.16919"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">:(</tspan></text>
   </g>
 </svg>
