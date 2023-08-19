@@ -19,7 +19,7 @@ jobs:
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        files: Release\*.exe
+        files: Release/*.exe
         tag_name: v1.2.0
         fail_on_unmatched_files: true
       env:
