@@ -1,8 +1,7 @@
 name: Build
-
 on: workflow_dispatch
-
 jobs:
+
   build:
     name: Build
     runs-on: windows-latest
@@ -10,14 +9,15 @@ jobs:
 
     - name: Checkout
       uses: actions/checkout@v3
-    
+
     - name: Build
-      run: make
+      run: msbuild -property:Configuration=Release
 
     - name: Release
       uses: softprops/action-gh-release@v1
       with:
-        files: bin\*.exe
-        tag_name: v1.1.3
+        files: Release\*.exe
+        tag_name: v1.2.0
+        fail_on_unmatched_files: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
