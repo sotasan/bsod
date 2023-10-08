@@ -1,9 +1,9 @@
 <div align="center">
-    <a href="https://github.com/sotasan/bsod/blob/master/BSOD/icon.svg"><img src="https://github.com/sotasan/bsod/raw/master/BSOD/icon.png" alt=":(" width="150" height="auto"></a>
+    <a href="BSOD/icon.svg"><img src="BSOD/icon.png" alt=":(" width="150" height="auto"></a>
     <h1>Blue Screen Of Death</h1>
     <a href="https://github.com/sotasan/bsod/tags"><img alt="Version" src="https://img.shields.io/github/v/release/sotasan/bsod?label=Version"></a>
     <a href="https://github.com/sotasan/bsod/actions/workflows/build.yml"><img alt="Build" src="https://github.com/sotasan/bsod/actions/workflows/build.yml/badge.svg"></a>
-    <a href="https://github.com/sotasan/bsod/blob/master/LICENSE"><img alt="License" src="https://img.shields.io/github/license/sotasan/bsod?label=License"></a>
+    <a href="LICENSE"><img alt="License" src="https://img.shields.io/github/license/sotasan/bsod?label=License"></a>
 </div>
 
 ## Download
@@ -20,4 +20,4 @@ $ msbuild -property:Configuration=Release
 
 ## License
 
-[Apache License 2.0](https://github.com/sotasan/bsod/blob/master/LICENSE)
+[BSD 3-Clause](LICENSE)
