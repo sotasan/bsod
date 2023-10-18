@@ -5,7 +5,7 @@
    viewBox="0 0 512 512"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
    sodipodi:docname="icon.svg"
    inkscape:export-filename="icon.png"
    inkscape:export-xdpi="96"
@@ -26,12 +26,12 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.70917839"
-     inkscape:cx="774.13526"
-     inkscape:cy="366.62144"
+     inkscape:cx="428.66506"
+     inkscape:cy="467.44233"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="1023"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1" />
   <defs
@@ -47,17 +47,17 @@
        height="384"
        x="64"
        y="64"
-       ry="61.317837" />
+       ry="192" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:48"
-       x="162.08734"
-       y="346.16919"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:299.999px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#ffffff;stroke-width:47.9998"
+       x="171.47893"
+       y="337.15195"
        id="text240"><tspan
          sodipodi:role="line"
          id="tspan238"
-         x="162.08734"
-         y="346.16919"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI'">:(</tspan></text>
+         x="171.47893"
+         y="337.15195"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:299.999px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI';stroke-width:47.9998">:(</tspan></text>
   </g>
 </svg>
